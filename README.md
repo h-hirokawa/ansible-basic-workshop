@@ -1,7 +1,7 @@
 # Ansible Workshop 追加コンテンツ
 
 Ansible Workshop用の追加教材です。
-内容は https://github.com/irixjp/katacoda-scenarios をベースにしています。
+内容の一部は https://github.com/irixjp/katacoda-scenarios をベースにしています。
 
 ## 目次
 * [Appendix 1 - 変数](./docs/01_vars.md)
